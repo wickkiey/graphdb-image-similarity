@@ -1,7 +1,6 @@
 # graphdb-image-similarity
 Generate Image Recommendation though embeddings with graphdb
 
-
 docker command 
 docker run -it --rm ^
   --publish=7474:7474 --publish=7687:7687 ^
